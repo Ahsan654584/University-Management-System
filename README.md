@@ -58,10 +58,6 @@ cd University-Management-System
 - **Sibgha Mursaleen**
 - **Abdul Moiz Barlas**
 
-## 📸 Screenshots
-
-> Add screenshots of the login page, main dashboard, and other modules here (optional)
-
 ## 🤝 Contribution
 
 Contributions are welcome!  
